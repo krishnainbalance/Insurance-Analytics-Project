@@ -48,19 +48,22 @@ The following KPIs were calculated and visualized:
 ### Excel Dashboard
 
 Interactive Excel dashboard using Pivot Tables, KPI cards, and slicers.
+ ![Excel Dashboard](Excel - DSBD.png)
 
 ---
 
 ### Power BI Dashboard
 
 Power BI dashboard with interactive visuals and filters.
-
+ ![Power BI Dashboard](Power BI - DSBD.png)
+ 
 ---
 
 ### Tableau Dashboard
 
 Tableau dashboard focusing on visual analytics and storytelling.
-
+ ![Tableau Dashboard](Tableau - DSBD.png)
+  
 ---
 
 ## Project Structure
